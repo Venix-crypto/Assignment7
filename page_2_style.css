@@ -21,6 +21,8 @@ Use page_1_style as an example for what to do here. You need to add properties
     padding: 10px;
     gap: 5px; /*Play with this value*/
     grid-template-columns: 200px 200px 200px;
+        margin-left:500px;
+
     
 }
 
